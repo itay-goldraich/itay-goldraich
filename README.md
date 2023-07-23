@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itay-goldraich" alt="itay-goldraich" /></a> </p>
 
-- 🌱 The first project I've worked on [overlay](https://github.com/os-scar/overlay)
+- 🌱 The first open source project I've worked on [overlay](https://github.com/os-scar/overlay)
 
 - 💬 Ask me about **Python, Java, C, MATHLAB**
+
+- 🏫 A project for the [software project](https://github.com/itay-goldraich/Software-Project-HomeWork-2023) course.
 
 - 🔭 I’m currently working on [parsigs](https://github.com/royashcenazi/parsigs)
 
