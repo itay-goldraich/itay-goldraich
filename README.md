@@ -5,11 +5,11 @@
 
 - 🌱 The first open source project I've worked on [overlay](https://github.com/os-scar/overlay)
 
-- 💬 Ask me about **Python, Java, C, MATHLAB**
-
 - 🏫 A project for the [software project](https://github.com/itay-goldraich/Software-Project-HomeWork-2023) course.
 
-- 🔭 I’m currently working on [parsigs](https://github.com/royashcenazi/parsigs)
+- 🩺 I’m currently working on [parsigs](https://github.com/royashcenazi/parsigs)
+
+- 🔭 I’m currently working on [2ms](https://github.com/Checkmarx/2ms)
 
 - 🤝 I’m going to start working on [pydigger.com](https://github.com/szabgab/pydigger.com)
 
