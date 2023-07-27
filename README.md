@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itay Goldraich</h1>
-<h3 align="center">A hardworking college student working towards a dual degree in electrical engineering and computer science.</h3>
+<h3 align="center">A hardworking student working towards a dual degree in electrical engineering and computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itay-goldraich&label=Profile%20views&color=0e75b6&style=flat" alt="itay-goldraich" /> </p>
 
