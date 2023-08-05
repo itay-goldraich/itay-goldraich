@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on [2ms](https://github.com/Checkmarx/2ms)
 
+- 🗺️ Side Project, Linkedin Job Search using [maps](https://github.com/itay-goldraich/Jobs-Maps) 
+
 - 🤝 I’m going to start working on [pydigger.com](https://github.com/szabgab/pydigger.com)
 
 <h3 align="left">Connect with me:</h3>
