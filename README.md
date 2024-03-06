@@ -7,7 +7,7 @@
 ###
 
 ✨ Creating bugs since 2012 </br>
-📚 I'm currently learning Machine Learning   </br>
+📚 I'm currently learning at TAU   </br>
 🎯 Goal: Become a better developer  </br>
 🧙‍♂️ Fun fact: I play D&D </br>
 
