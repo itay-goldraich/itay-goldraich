@@ -81,7 +81,7 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats-itay-goldraichs-projects.vercel.app/api/top-langs?username=itay-goldraich&hide=javascript,html&show_icons=true&locale=en&layout=compact&rank_icon=github" alt="itay-goldraich" /> </p>
+<p><img align="left" src="https://github-readme-stats-itay-goldraichs-projects.vercel.app/api/top-langs?username=itay-goldraich&exclude_repo=GitHub-Stats&show_icons=true&locale=en&layout=compact&rank_icon=github" alt="itay-goldraich" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-itay-goldraichs-projects.vercel.app/api/?username=itay-goldraich&show_icons=true&locale=en&rank_icon=github" alt="itay-goldraich" /></p>
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=itay-goldraich&limit=5&theme=flat&combine_all_yearly_contributions=true" /></p>
 </br>
