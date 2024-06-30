@@ -1,6 +1,6 @@
 # Hi, I'm Itay Goldraich
 
-### University student working towards a dual degree in electrical engineering and computer science.
+### University student working towards a degree in computer science.
 
 ## About me
 
