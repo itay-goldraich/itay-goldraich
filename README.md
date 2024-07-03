@@ -1,6 +1,7 @@
 # Hi, I'm Itay Goldraich
 
-### University student working towards a degree in computer science.
+### Computer Science student with a passion for open-source software development.
+Strong problem-solving skills and a keen interest in emerging technologies.
 
 ## About me
 
