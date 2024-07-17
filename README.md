@@ -90,7 +90,7 @@ Strong problem-solving skills and a keen interest in emerging technologies.
 ###
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>
 
 
 
